@@ -1,6 +1,13 @@
+# RhombixTechnologies_Tasks
+
+Internship tasks completed for Rhombix Technologies - Python  Programming
+
 # **🔢 Fibonacci Generator – Internship Task**
 
+This project was developed as part of the Python Programming Internship at [Rhombix Technologies](https://www.linkedin.com/company/rhombix-technologies/).
+
 This project showcases multiple ways to generate Fibonacci numbers using Python including generators, lists, and mathematical logic.  
+
 It’s a part of my **Rhombix Technologies Internship** focused on improving coding, logic-building, and documentation skills.
 
 ## **📌 What is the Fibonacci Sequence?**
